@@ -35,8 +35,15 @@ height: 200px;
 width: 100%;
 }
 .cartao-interno{
-
     position: relative;
+    transition: 0.8s;
+    transform-style: preserve-3d;
+    
+}
+
+.cartao:hover .cartao-interno{
+transform: rOtaY(180deg)
+
 }
 
 .cartao-frente, .cartao-verso{
