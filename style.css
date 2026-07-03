@@ -54,7 +54,7 @@ width: 100%;
 }
 
 .cartao:hover .cartao-interno{
-transform: rOtaY(180deg)
+transform: rOtaY(180deg);
 
 }
 
