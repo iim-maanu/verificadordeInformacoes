@@ -13,8 +13,17 @@ min-height: 100vh;
 
 main{
 flex: 1;
-}
+display: flex;
+flex-direction: column;
+align-items: center;
 
+}
+section{
+display: flex;
+gap: 16px;
+
+
+}
 .cabecalho{
 color:rgb(6, 28, 102);
 padding: 15px 25px;
@@ -28,6 +37,7 @@ background-color: #387888;
 
 width: 260px;
 height: 200px;
+margin: 20px;
 }
 
 .cartao-imagem{
