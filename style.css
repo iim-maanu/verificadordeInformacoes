@@ -22,12 +22,12 @@ section {
 }
 
 .cabecalho {
-    color: green;
+    color: rgb(130, 150, 240);
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #FFFF00;
+    background-color: #081e81;
 }
 
 .cartao {
